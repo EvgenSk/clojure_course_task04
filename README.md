@@ -1,19 +1,7 @@
 # Пример простого блога на Clojure
 
-Пример задеплоен здесь: http://helloworld-writing.rhcloud.com/articles
+Переделанный пример Димы Бушенко. 
 
-Никакого логина не требуется. Реализованы операции CRUD для объекта article.
+Что переделано: база данных - Redis.
 
-## Running
-
-Запускать приложение так:
-
-    lein ring server
-
-War-ку собирать так:
-    
-    lein ring uberwar
-    
-## License
-
-Copyright © 2013 FIXME
+Расположение: http://useless-evgensk.rhcloud.com/
